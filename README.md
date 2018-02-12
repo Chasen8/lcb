@@ -13,6 +13,8 @@
 - OwlCarousel2.js：响应式轮播图插件
 - Gulp：自动化构建工具，使用Gulp进行自动化打包发布
 - Node.js：同步异步编程方式的区别，包管理器NPM的使用，package.json 如何配置，http-server 的使用等知识
+- Picturefill：填平浏览器picture标签的兼容
+
 
 
 
