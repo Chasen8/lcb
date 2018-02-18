@@ -1,7 +1,7 @@
 # 响应式理财网站
 这是学习响应式后的第一个项目，随课做完。基于CSS媒体查询，以实际上线的互联网金融网站为案例。
 
-👉 [理财宝首页](https://chasen8.github.io/licaibao/src/)
+👉 [理财宝首页](https://chasen8.github.io/licaibao/src/)<br>
 ![N|Solid](http://m.qpic.cn/psb?/V14DPIsG3ADUGY/jsNBrJ5nCwoQgYuH1IwrTHyiwPIifWhKsK7o22cjeYo!/b/dGsBAAAAAAAA&bo=.QF0AwAAAAADB60!&rf=viewer_4)<br>
 ![N|Solid](http://m.qpic.cn/psb?/V14DPIsG3ADUGY/RDlg59Rk0ahDLKH9uJFuMnLBXZFODHtj1fmlS0n9RE0!/b/dJEAAAAAAAAA&bo=WAWAAgAAAAADJ90!&rf=viewer_4)
 
